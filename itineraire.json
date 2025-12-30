@@ -1,0 +1,156 @@
+{
+  "pays": "Monténégro",
+  "drapeau": "🇲🇪",
+  "symbole": "🏞️",
+  "titre": "Escapade relaxante dans la Baie de Kotor",
+  "budget_total": "950 €",
+  "duree": "3 jours",
+  "temps_vol": "2h20 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée sereine à Kotor",
+      "legende": "Après un vol court, installez-vous doucement dans l'ambiance médiévale de Kotor. Une première balade dans la vieille ville vous plongera immédiatement dans son histoire et sa beauté, pour un début de voyage tout en douceur.",
+      "lieu": "Kotor",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à Tivat et transfert à Kotor",
+        "<strong>🛏️</strong>: Installation et détente à l'hôtel",
+        "<strong>🚶‍♀️</strong>: Balade relaxante dans la Vieille Ville de Kotor"
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Tivat, Tivat",
+          "categorie": "Aéroport",
+          "coords": { "lat": 42.4047, "lng": 18.7231 }
+        },
+        {
+          "nom_recherche": "Vieille Ville de Kotor, Kotor",
+          "categorie": "Site historique",
+          "coords": { "lat": 42.4247, "lng": 18.7712 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le transfert de l'aéroport de Tivat à Kotor prend environ 15-20 minutes en voiture. Des taxis sont facilement disponibles à la sortie de l'aéroport."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Dîner",
+          "texte": "Profitez d'un dîner typique dans l'un des charmants restaurants de la vieille ville, comme le Konoba Scala Santa, pour goûter aux saveurs locales."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⛵",
+      "titre": "Croisière paisible sur la Baie de Kotor",
+      "legende": "Laissez-vous charmer par les paysages grandioses de la Baie de Kotor lors d'une croisière relaxante, ponctuée de découvertes culturelles et de moments de quiétude au fil de l'eau, loin de l'agitation.",
+      "lieu": "Baie de Kotor",
+      "activites": [
+        "<strong>⛵</strong>: Croisière panoramique sur la Baie de Kotor",
+        "<strong>⛪</strong>: Visite de Notre-Dame du Rocher et Perast",
+        "<strong>🏖️</strong>: Détente au bord de l'eau"
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Baie de Kotor, Kotor",
+          "categorie": "Site naturel",
+          "coords": { "lat": 42.45, "lng": 18.65 }
+        },
+        {
+          "nom_recherche": "Notre-Dame du Rocher, Perast",
+          "categorie": "Île et église",
+          "coords": { "lat": 42.4819, "lng": 18.6925 }
+        },
+        {
+          "nom_recherche": "Perast, Kotor",
+          "categorie": "Village historique",
+          "coords": { "lat": 42.4850, "lng": 18.6960 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Conseil",
+          "texte": "N'oubliez pas votre crème solaire, un chapeau et des lunettes de soleil pour la croisière, même si le temps est nuageux, le soleil peut être intense sur l'eau."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photo",
+          "texte": "Les vues depuis le bateau sont spectaculaires, offrant des panoramas uniques sur les montagnes et les villages. Préparez votre appareil photo!"
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛰️",
+      "titre": "Panoramas montagneux et départ",
+      "legende": "Profitez d'une dernière matinée pour admirer les vues imprenables sur la baie depuis les hauteurs, avant de vous imprégner une dernière fois de l'atmosphère de Kotor et de prendre le chemin du retour, la tête pleine de souvenirs.",
+      "lieu": "Kotor et Lovcen",
+      "activites": [
+        "<strong>🚗</strong>: Route panoramique vers le Parc National de Lovcen",
+        "<strong>🏞️</strong>: Point de vue sur la Baie de Kotor",
+        "<strong>🛍️</strong>: Derniers achats et départ"
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parc National de Lovcen, Cetinje",
+          "categorie": "Parc national",
+          "coords": { "lat": 42.39, "lng": 18.83 }
+        },
+        {
+          "nom_recherche": "Serpentine Road Viewpoint, Kotor",
+          "categorie": "Point de vue",
+          "coords": { "lat": 42.409, "lng": 18.765 }
+        },
+        {
+          "nom_recherche": "Aéroport de Tivat, Tivat",
+          "categorie": "Aéroport",
+          "coords": { "lat": 42.4047, "lng": 18.7231 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Conduite",
+          "texte": "La route vers Lovcen est sinueuse avec de nombreux virages en épingle, mais les vues imprenables en valent largement la peine. Conduisez prudemment et profitez du paysage."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour le trajet vers l'aéroport de Tivat (environ 30-45 minutes depuis les hauteurs de Lovcen) et les formalités d'embarquement."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "412 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "75 €/pers (location voiture ou taxis)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "210 €/pers (70€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "150 €/pers (3 nuits en 3* sur base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "80 €/pers (croisière, entrées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Printemps et Automne", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "De mai à septembre, les températures sont agréables (20-30°C). Prévoir des vêtements légers, un maillot de bain et une veste légère pour les soirées.", "symbole": "☀️" },
+    { "titre": "L'Euro (€) est la monnaie officielle. Les cartes de crédit sont largement acceptées dans les villes, mais prévoyez un peu de liquide pour les petits commerces ou les zones plus reculées.", "symbole": "💳" },
+    { "titre": "Le monténégrin est la langue officielle. L'anglais est généralement parlé dans les zones touristiques et par le personnel des hôtels et restaurants.", "symbole": "🗣️" },
+    { "titre": "La location de voiture est recommandée pour explorer la région et la Baie de Kotor à votre rythme. Des taxis et bus locaux sont également disponibles pour les trajets courts.", "symbole": "🚗" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-TIV/2026-04-10/2026-04-13", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Monténégro", "url": "https://www.montenegro.travel/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Monténégro", "url": "https://www.accuweather.com/fr/me/montenegro-weather", "symbole": "🌤️" },
+    { "legende": "Transports en bus", "titre": "BusTicket4.me", "url": "https://www.busticket4.me/", "symbole": "🚌" }
+  ]
+}
